@@ -1,7 +1,7 @@
 const btn = document.getElementById("btn")
 let theme = "white"
 
-btn.addEventListener("click", function() {
+btn.addEventListener("click", function() { 
     if (theme == "black") {
         btn.style.backgroundColor = "black"
         btn.style.color = "white"

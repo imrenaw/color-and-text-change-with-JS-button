@@ -1,3 +1,7 @@
+body {
+    transition: background-color 0.5s ease;
+}
+
 .btn {
     height: 150px;
     width: 400px;
